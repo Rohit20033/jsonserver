@@ -7,61 +7,50 @@
   "Name": "Fossil 8 gen",
   "Price": "2999",
   "Image": "https://mail.google.com/mail/u/0?ui=2&ik=d9fbb24d65&attid=0.1&permmsgid=msg-f:1770231965091697490&th=18912097d9551352&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ8bUNdDVrFXoSJe4I-6nXqV2rJ_9ffP5nBsce4OdkZPnMQ4PqxrK3E0S5FgYrN1IaiuGqMwMvexPGl0w4sA2tvTbqOhFg2zZxP8Hhm3lTHJZK6nVmY-6gedNsc&disp=emb&realattid=189120916b9ddeff5ef1",
-  "Discount": "4999"
+  "Discount": "4999".
+    "cat": "watch" 
 }, {
   "id": 2,
   "Name": "EDIFICE Casio 539 mode",
   "Price": "1999",
   "Image": "https://www.g-store.ru/upload/iblock/5f4/ef_539d_1a_6.jpg",
-  "Discount": "$0.92"
+  "Discount": "$2999",
+  "cat": "watch" 
 }, {
   "id": 3,
-  "Name": "Cotton Wet Mop 16 Oz",
-  "Price": "$9.19",
-  "Image": "http://dummyimage.com/146x100.png/ff4444/ffffff",
-  "Discount": "$9.31"
+  "Name": " TAG Heuer",
+  "Price": "2199",
+  "Image": "https://cdn.dotpe.in/longtail/store-items/8031567/WpuIcnAB.jpeg",
+  "Discount": "3999",
+  "cat": "watch" 
 }, {
   "id": 4,
-  "Name": "Remy Red",
-  "Price": "$7.24",
-  "Image": "http://dummyimage.com/184x100.png/5fa2dd/ffffff",
-  "Discount": "$0.62"
+  "Name": "Apple Watch Series 8",
+  "Price": "1799",
+  "Image": "https://mail.google.com/mail/u/0?ui=2&ik=d9fbb24d65&attid=0.18&permmsgid=msg-f:1770232624415641977&th=189121315c1a1179&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ_VgrPOY7_UF40DCj1PghvI790y26Q_YUZgN1DqrcMG0Dn2eY_eu9JYmw4asSZVo0_5_4cZtY5wk8iEQvF3gr-zUozVMcqv1SkaR7loA2SBiQ8Pi7nQO6PqDOc&disp=emb&realattid=18912120f02e705fbf6c",
+  "Discount": "2000",
+    "cat": "watch" 
 }, {
   "id": 5,
-  "Name": "Juice - Prune",
-  "Price": "$6.69",
-  "Image": "http://dummyimage.com/135x100.png/dddddd/000000",
-  "Discount": "$3.95"
+  "Name": "Apple Limited Edition",
+  "Price": "2499",
+  "Image": "https://mail.google.com/mail/u/0?ui=2&ik=d9fbb24d65&attid=0.5&permmsgid=msg-f:1770232624415641977&th=189121315c1a1179&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ8z38CbGtnLQ0EzfsAu25OQjp8mV_Op6QDZqqEgWb-kQA1NbP0LqglHNrOVJHc7Xoky3aOlhbIdEozLJaXlIieEP-notSTYV2ZyAL7x9E9bd7HLmYAqcsRKoKk&disp=emb&realattid=1891211f65b7c5a45f8a",
+  "Discount": "3444",
+       "cat": "watch" 
 }, {
   "id": 6,
-  "Name": "Pork - Tenderloin, Frozen",
-  "Price": "$0.65",
+  "Name": "MagSafe Wireless PowerBank",
+  "Price": "1499",
   "Image": "http://dummyimage.com/212x100.png/ff4444/ffffff",
-  "Discount": "$0.32"
+  "Discount": "1999".
+       "cat": "power bank" 
 }, {
   "id": 7,
-  "Name": "Wine - Trimbach Pinot Blanc",
-  "Price": "$6.85",
-  "Image": "http://dummyimage.com/106x100.png/dddddd/000000",
-  "Discount": "$5.15"
-}, {
-  "id": 8,
-  "Name": "Pork - Back, Long Cut, Boneless",
-  "Price": "$4.12",
-  "Image": "http://dummyimage.com/242x100.png/ff4444/ffffff",
-  "Discount": "$4.49"
-}, {
-  "id": 9,
-  "Name": "Appetizer - Seafood Assortment",
-  "Price": "$9.27",
-  "Image": "http://dummyimage.com/175x100.png/cc0000/ffffff",
-  "Discount": "$8.25"
-}, {
-  "id": 10,
-  "Name": "Cookie Chocolate Chip With",
-  "Price": "$4.05",
-  "Image": "http://dummyimage.com/162x100.png/5fa2dd/ffffff",
-  "Discount": "$9.02"
+  "Name": "Nike Jordans",
+  "Price": "2999",
+  "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl5jgSiKjWQc4vPWq9DH31K0QsyKTEwdwdSQ&usqp=CAU",
+  "Discount": "3999",
+       "cat": "shoes" 
+       
 }]
-#
  }
