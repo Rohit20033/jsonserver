@@ -51,5 +51,38 @@
   "Discount": "3999",
        "cat": "shoes" 
        
-}]
+},
+   {
+         "id": 8,
+  "Name": "Airpods Pro 2",
+  "Price": "1399",
+  "Image": "https://fdn.gsmarena.com/imgroot/news/22/10/apple-airpods-2-review/-1200w5/gsmarena_004.jpg",
+  "Discount": "4999",
+    "cat": "pods"
+   },
+       {
+         "id": 9,
+  "Name": "Airpods 3",
+  "Price": "1499",
+  "Image": "https://www.digitaltrends.com/wp-content/uploads/2021/10/apple-airpods-3-review-00013.jpeg?resize=2000%2C1333&p=1",
+  "Discount": "4999",
+    "cat": "pods"
+   },
+     {
+     "id": 10,
+  "Name": "Airpods pro 2 with mag safe wireless powerbank",
+  "Price": "2499",
+  "Image": "https://mail.google.com/mail/u/0?ui=2&ik=d9fbb24d65&attid=0.2&permmsgid=msg-f:1770873864651204928&th=18936865bc8ee940&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ8qPZnPiVpxIUr4eRfd5vG_a0Vy8Yevyo8UcFGOs3QNMcNMWYLwpIezwkkJ5bVPZS-JyGotW8o17POSyaIasPq_-K01xRKSIrdY5Q5xtfDlCLKpr057le_rgl8&disp=emb&realattid=1893685f3204f2b43241",
+  "Discount": "4999",
+    "cat": "pods"
+   },
+         {
+     "id": 11,
+  "Name": "Airpods pro2 matte black",
+  "Price": "1499",
+  "Image": "https://mail.google.com/mail/u/0?ui=2&ik=d9fbb24d65&attid=0.2&permmsgid=msg-f:1770873864651204928&th=18936865bc8ee940&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ8qPZnPiVpxIUr4eRfd5vG_a0Vy8Yevyo8UcFGOs3QNMcNMWYLwpIezwkkJ5bVPZS-JyGotW8o17POSyaIasPq_-K01xRKSIrdY5Q5xtfDlCLKpr057le_rgl8&disp=emb&realattid=1893685f3204f2b43241",
+  "Discount": "4999",
+    "cat": "pods"
+   }
+   ]
  }
