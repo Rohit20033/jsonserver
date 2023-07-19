@@ -5,49 +5,49 @@
   "id": 1,
   "Name": "Fossil 8 gen",
   "Price": "2999",
-  "Image": "https://mail.google.com/mail/u/0?ui=2&ik=d9fbb24d65&attid=0.1&permmsgid=msg-f:1770231965091697490&th=18912097d9551352&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ8bUNdDVrFXoSJe4I-6nXqV2rJ_9ffP5nBsce4OdkZPnMQ4PqxrK3E0S5FgYrN1IaiuGqMwMvexPGl0w4sA2tvTbqOhFg2zZxP8Hhm3lTHJZK6nVmY-6gedNsc&disp=emb&realattid=189120916b9ddeff5ef1",
+  "Image": "https://m.media-amazon.com/images/I/41w+V4HyfIL.jpg",
   "Discount": "4999",
     "cat": "watch" 
 }, {
   "id": 2,
   "Name": "EDIFICE Casio 539 mode",
   "Price": "1999",
-  "Image": "https://www.g-store.ru/upload/iblock/5f4/ef_539d_1a_6.jpg",
+  "Image": "https://m.media-amazon.com/images/I/61woOG2452L._AC_UY1000_.jpg",
   "Discount": "$2999",
   "cat": "watch" 
 }, {
   "id": 3,
   "Name": " TAG Heuer",
   "Price": "2199",
-  "Image": "https://cdn.dotpe.in/longtail/store-items/8031567/WpuIcnAB.jpeg",
+  "Image": "https://c1.wallpaperflare.com/preview/878/370/382/watch-tag-heuer-carrera-to-watch-male-accessories.jpg",
   "Discount": "3999",
   "cat": "watch" 
 }, {
   "id": 4,
   "Name": "Apple Watch Series 8",
   "Price": "1799",
-  "Image": "https://mail.google.com/mail/u/0?ui=2&ik=d9fbb24d65&attid=0.18&permmsgid=msg-f:1770232624415641977&th=189121315c1a1179&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ_VgrPOY7_UF40DCj1PghvI790y26Q_YUZgN1DqrcMG0Dn2eY_eu9JYmw4asSZVo0_5_4cZtY5wk8iEQvF3gr-zUozVMcqv1SkaR7loA2SBiQ8Pi7nQO6PqDOc&disp=emb&realattid=18912120f02e705fbf6c",
+  "Image": "https://m-cdn.phonearena.com/images/article/140344-wide-two_1200/Apple-Watch-Series-8-shows-up-in-gorgeous-concept-images.jpg",
   "Discount": "2000",
     "cat": "watch" 
 }, {
   "id": 5,
   "Name": "Apple Limited Edition",
   "Price": "2499",
-  "Image": "https://mail.google.com/mail/u/0?ui=2&ik=d9fbb24d65&attid=0.5&permmsgid=msg-f:1770232624415641977&th=189121315c1a1179&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ8z38CbGtnLQ0EzfsAu25OQjp8mV_Op6QDZqqEgWb-kQA1NbP0LqglHNrOVJHc7Xoky3aOlhbIdEozLJaXlIieEP-notSTYV2ZyAL7x9E9bd7HLmYAqcsRKoKk&disp=emb&realattid=1891211f65b7c5a45f8a",
+  "Image": "https://www.cnet.com/a/img/resize/7d5db4c8af9e89d69bf47c99855c94286f1cd097/hub/2015/06/04/5a000456-5b85-4ec2-ab1e-dbf8b929b5ae/apple-watch-gold-plate-30.jpg?auto=webp&fit=crop&height=1200&width=1200",
   "Discount": "3444",
        "cat": "watch" 
 }, {
   "id": 6,
   "Name": "MagSafe Wireless PowerBank",
   "Price": "1499",
-  "Image": "https://mail.google.com/mail/u/0?ui=2&ik=d9fbb24d65&attid=0.19&permmsgid=msg-f:1770232624415641977&th=189121315c1a1179&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ_cOnMBD-cbSCII6QZG8egBpm-chcBskUoCU11fOPsUDBRDs86ICTDWZYKp5eTH4f1DhoA9i12Zn5eXM7kYd3mytCA79lL4bV2TS384ZvRQ-WBEH8qHiDq-P6Q&disp=emb&realattid=18912126597a78cb0f410",
+  "Image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MJWY3?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1625613219000",
   "Discount": "1999",
        "cat": "power bank" 
 }, {
   "id": 7,
   "Name": "Nike Jordans",
   "Price": "2999",
-  "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl5jgSiKjWQc4vPWq9DH31K0QsyKTEwdwdSQ&usqp=CAU",
+  "Image": "https://e1.pxfuel.com/desktop-wallpaper/137/181/desktop-wallpaper-air-jordan-i-igloo-and-rust-pink-pink-aesthetic-jordan.jpg",
   "Discount": "3999",
        "cat": "shoes" 
        
@@ -56,7 +56,7 @@
          "id": 8,
   "Name": "Airpods Pro 2",
   "Price": "1399",
-  "Image": "https://fdn.gsmarena.com/imgroot/news/22/10/apple-airpods-2-review/-1200w5/gsmarena_004.jpg",
+  "Image": "https://e0.pxfuel.com/wallpapers/441/424/desktop-wallpaper-airpods-2-and-airpods-pro-receive-new-firmware-update-aesthetic-airpods.jpg",
   "Discount": "4999",
     "cat": "pods"
    },
@@ -64,7 +64,7 @@
          "id": 9,
   "Name": "Airpods 3",
   "Price": "1499",
-  "Image": "https://www.digitaltrends.com/wp-content/uploads/2021/10/apple-airpods-3-review-00013.jpeg?resize=2000%2C1333&p=1",
+  "Image": "https://cdn.mos.cms.futurecdn.net/iKmuCTfmTrhPjE9f98okZY.jpg",
   "Discount": "4999",
     "cat": "pods"
    },
@@ -72,7 +72,7 @@
      "id": 10,
   "Name": "Airpods pro 2 with mag safe wireless powerbank",
   "Price": "2499",
-  "Image": "https://mail.google.com/mail/u/0?ui=2&ik=d9fbb24d65&attid=0.2&permmsgid=msg-f:1770873864651204928&th=18936865bc8ee940&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ8qPZnPiVpxIUr4eRfd5vG_a0Vy8Yevyo8UcFGOs3QNMcNMWYLwpIezwkkJ5bVPZS-JyGotW8o17POSyaIasPq_-K01xRKSIrdY5Q5xtfDlCLKpr057le_rgl8&disp=emb&realattid=1893685f3204f2b43241",
+  "Image": "https://www.yankodesign.com/images/design_news/2022/09/3-in-1_MagSafe_battery_pack_for_Apple_devices_hero.jpg",
   "Discount": "4999",
     "cat": "pods"
    },
@@ -80,7 +80,7 @@
      "id": 11,
   "Name": "Airpods pro2 matte black",
   "Price": "1499",
-"Image":  "https://mail.google.com/mail/u/0?ui=2&ik=d9fbb24d65&attid=0.3&permmsgid=msg-f:1770874362977536511&th=189368d9c31f49ff&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ8HOHXAXeHd7o1YwWul-stE_zPbMyyUmJO149tv_1KlW_CYhg45OmZZi8vZpvub_MJF_MlRJkqvPetr8t-xmqjgOFUUVgw9YaH_PSLvN6nSzmCxwsj868ZDj9Q&disp=emb&realattid=189368d50f017b76b262",
+"Image":  "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1620745140-wyze-buds-inline-1620741250.jpg",
   "Discount": "4999",
     "cat": "pods"
    }
